@@ -1,0 +1,57 @@
+﻿@model IEnumerable<IceCreamProject.Models.Recipe>
+
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "Ice Cream Recipe Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-Compatible" content="ie=edge">
+    <title>Ice Cream Recipe Index</title>
+    <link rel="stylesheet" href="~/confirm/css/style-freedom.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="w3l-errorpage">
+        <div class="error404">
+            <div class="wrapper">
+                <div class="logo-brand">
+                    <h1><a class="brand-logo-text" href="index.html">Ice Cream Parlour</a></h1>
+                </div>
+            </div>
+            <div class="wrapper">
+                <div class="midle-page">
+                    <section class="error-container">
+                        <h1>Ice Cream Recipe</h1>
+                    </section>
+                    <p class="zoom-area para">Explore our collection of delicious ice cream recipes. Find your favorite flavor and start making it at home!</p>
+
+                    <div class="recipe-cards">
+                        @foreach (var item in Model)
+                        {
+                            <div class="recipe-card">
+                                <h2>@Html.DisplayFor(modelItem => item.R_Name)</h2>
+                                <p><strong>By:</strong> @Html.DisplayFor(modelItem => item.Recipe_By)</p>
+                                <p><strong>Ingredients:</strong> @Html.DisplayFor(modelItem => item.Ingredients)</p>
+                                <p><strong>Procedure:</strong> @Html.DisplayFor(modelItem => item.Procedure)</p>
+                              
+                               
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="columns-copy">
+                    <p class="copy-footer">© 2024 Your Company. All rights reserved | Designed by <a href="https://w3layouts.com">W3layouts</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

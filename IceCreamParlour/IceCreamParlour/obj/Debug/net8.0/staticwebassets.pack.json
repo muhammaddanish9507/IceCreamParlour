@@ -1,0 +1,1721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IceCreamParlour.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IceCreamParlour.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\font.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\minimal.css",
+      "PackagePath": "staticwebassets\\admin\\css\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\monthly.css",
+      "PackagePath": "staticwebassets\\admin\\css\\monthly.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\style-responsive.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\close.png",
+      "PackagePath": "staticwebassets\\admin\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\mail.png",
+      "PackagePath": "staticwebassets\\admin\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\minimal.png",
+      "PackagePath": "staticwebassets\\admin\\images\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\nav-expand.png",
+      "PackagePath": "staticwebassets\\admin\\images\\nav-expand.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\next.png",
+      "PackagePath": "staticwebassets\\admin\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\pass.png",
+      "PackagePath": "staticwebassets\\admin\\images\\pass.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\prev.png",
+      "PackagePath": "staticwebassets\\admin\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.dcjqaccordion.2.7.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dcjqaccordion.2.7.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.scrollTo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.scrollTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\jquery2.0.3.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\monthly.js",
+      "PackagePath": "staticwebassets\\admin\\js\\monthly.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\css\\style-freedom.css",
+      "PackagePath": "staticwebassets\\confirm\\css\\style-freedom.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\confirm\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\confirm\\images\\404.jpg",
+      "PackagePath": "staticwebassets\\confirm\\images\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\layout\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\promotion.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\promotion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\layout\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\layout\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\layout\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\layout\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\layout\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\layout\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\layout\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\layout\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\pay\\css\\creditly.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\pay\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\css\\style.css",
+      "PackagePath": "staticwebassets\\pay\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\pay\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\images\\1.png",
+      "PackagePath": "staticwebassets\\pay\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\pay\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\pay\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\pay\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\js\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\pay\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\source\\repos\\IceCreamParlour\\IceCreamParlour\\wwwroot\\pay\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\pay\\js\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IceCreamParlour.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IceCreamParlour.props",
+      "PackagePath": "build\\IceCreamParlour.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IceCreamParlour.props",
+      "PackagePath": "buildMultiTargeting\\IceCreamParlour.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IceCreamParlour.props",
+      "PackagePath": "buildTransitive\\IceCreamParlour.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

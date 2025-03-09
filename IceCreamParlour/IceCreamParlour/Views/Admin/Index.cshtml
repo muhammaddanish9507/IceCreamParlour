@@ -1,0 +1,218 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<section id="main-content">
+    <section class="wrapper">
+<div class="market-updates">
+    <div class="col-md-3 market-update-gd">
+        <div class="market-update-block clr-block-2">
+            <div class="col-md-4 market-update-right">
+                <i class="fa fa-eye"> </i>
+            </div>
+            <div class="col-md-8 market-update-left">
+                <h4>Visitors</h4>
+                <h3>13,500</h3>
+                <p>Daily visitors to your parlour</p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="col-md-3 market-update-gd">
+        <div class="market-update-block clr-block-1">
+            <div class="col-md-4 market-update-right">
+                <i class="fa fa-users"></i>
+            </div>
+            <div class="col-md-8 market-update-left">
+                <h4>Users</h4>
+                <h3>1,250</h3>
+                <p>Registered users in the system</p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="col-md-3 market-update-gd">
+        <div class="market-update-block clr-block-3">
+            <div class="col-md-4 market-update-right">
+                <i class="fa fa-usd"></i>
+            </div>
+            <div class="col-md-8 market-update-left">
+                <h4>Sales</h4>
+                <h3>1,500</h3>
+                <p>Total ice cream sales today</p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="col-md-3 market-update-gd">
+        <div class="market-update-block clr-block-4">
+            <div class="col-md-4 market-update-right">
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+            </div>
+            <div class="col-md-8 market-update-left">
+                <h4>Orders</h4>
+                <h3>1,500</h3>
+                <p>Ice cream orders processed</p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<!-- //market-->
+<div class="row">
+    <div class="panel-body">
+        <div class="col-md-12 w3ls-graph">
+            <!--agileinfo-grap-->
+            <div class="agileinfo-grap">
+                <div class="agileits-box">
+                    <header class="agileits-box-header clearfix">
+                        <h3>Visitor Statistics</h3>
+                        <div class="toolbar"></div>
+                    </header>
+                    <div class="agileits-box-body clearfix">
+                        <div id="hero-area"></div>
+                    </div>
+                </div>
+            </div>
+            <!--//agileinfo-grap-->
+        </div>
+    </div>
+</div>
+<div class="agil-info-calendar">
+    <!-- calendar -->
+    <div class="col-md-6 agile-calendar">
+        <div class="calendar-widget">
+            <div class="panel-heading ui-sortable-handle">
+                <span class="panel-icon">
+                    <i class="fa fa-calendar-o"></i>
+                </span>
+                <span class="panel-title"> Calendar Widget</span>
+            </div>
+            <!-- grids -->
+            <div class="agile-calendar-grid">
+                <div class="page">
+                    <div class="w3l-calendar-left">
+                        <div class="calendar-heading"></div>
+                        <div class="monthly" id="mycalendar"></div>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //calendar -->
+    <div class="col-md-6 w3agile-notifications">
+        <div class="notifications">
+            <!--notification start-->
+            <header class="panel-heading">
+                Notifications
+            </header>
+            <div class="notify-w3ls">
+                <div class="alert alert-info clearfix">
+                    <span class="alert-icon"><i class="fa fa-envelope-o"></i></span>
+                    <div class="notification-info">
+                        <ul class="clearfix notification-meta">
+                            <li class="pull-left notification-sender"><span><a href="#">Manager</a></span> sent you a message</li>
+                            <li class="pull-right notification-time">1 min ago</li>
+                        </ul>
+                        <p>
+                            Please review today's sales report.
+                        </p>
+                    </div>
+                </div>
+                <div class="alert alert-danger">
+                    <span class="alert-icon"><i class="fa fa-facebook"></i></span>
+                    <div class="notification-info">
+                        <ul class="clearfix notification-meta">
+                            <li class="pull-left notification-sender"><span><a href="#">Marketing Team</a></span> mentioned you in a post </li>
+                            <li class="pull-right notification-time">7 Hours Ago</li>
+                        </ul>
+                        <p>
+                            New promotional campaign is live!
+                        </p>
+                    </div>
+                </div>
+                <div class="alert alert-success">
+                    <span class="alert-icon"><i class="fa fa-comments-o"></i></span>
+                    <div class="notification-info">
+                        <ul class="clearfix notification-meta">
+                            <li class="pull-left notification-sender">You have 5 unread messages</li>
+                            <li class="pull-right notification-time">1 min ago</li>
+                        </ul>
+                        <p>
+                            <a href="#">Customer Support</a> and <a href="#">3 others</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="alert alert-warning">
+                    <span class="alert-icon"><i class="fa fa-bell-o"></i></span>
+                    <div class="notification-info">
+                        <ul class="clearfix notification-meta">
+                            <li class="pull-left notification-sender">Monthly Inventory Check Due</li>
+                            <li class="pull-right notification-time">5 Days Ago</li>
+                        </ul>
+                        <p>
+                            Ensure all stock levels are updated.
+                        </p>
+                    </div>
+                </div>
+                <div class="alert alert-info clearfix">
+                    <span class="alert-icon"><i class="fa fa-envelope-o"></i></span>
+                    <div class="notification-info">
+                        <ul class="clearfix notification-meta">
+                            <li class="pull-left notification-sender"><span><a href="#">Manager</a></span> sent you a message</li>
+                            <li class="pull-right notification-time">1 min ago</li>
+                        </ul>
+                        <p>
+                            Meeting scheduled at 4 PM today.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--notification end-->
+        </div>
+    </div>
+   
+
+    </section>
+    <!-- footer -->
+    <div class="footer">
+        <div class="wthree-copyright">
+            <p>© 2017 Visitors. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+        </div>
+    </div>
+    <!-- / footer -->
+</section>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+<script type="text/javascript" src="~/admin/js/monthly.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+
+   
+
+        $('#mycalendar2').monthly({
+            mode: 'picker',
+            target: '#mytarget',
+            setWidth: '250px',
+            startHidden: true,
+            showTrigger: '#mytarget',
+            stylePast: true,
+            disablePast: true
+        });
+
+        switch (window.location.protocol) {
+            case 'http:':
+            case 'https:':
+                // running on a server, should be good.
+                break;
+            case 'file:':
+                alert('Just a heads-up, events will not work when run locally.');
+        }
+
+    });
+</script>

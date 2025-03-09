@@ -1,0 +1,79 @@
+﻿@model IEnumerable<IceCreamParlour.Models.Payments>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <section id="main-content">
+        <section class="wrapper">
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+            <div class="table-agile-info">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Customer payments
+                    </div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameOnCard)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CardNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CVV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpirationDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameOnCard)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CVV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PaymentID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PaymentID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PaymentID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+                </div>
+            </div>
+        </section>
+        <!-- footer -->
+        <div class="footer">
+            <div class="wthree-copyright">
+                <p>© 2017 Visitors. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+            </div>
+        </div>
+        <!-- / footer -->
+    </section>
+</body>
+</html>
